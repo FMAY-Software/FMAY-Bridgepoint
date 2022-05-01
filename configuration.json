@@ -7,8 +7,12 @@
   "home": "https://github.com/FMAY-Software/FMAY-Bridgepoint",
   "deliverables": [
     {
-      "target": "None",
-      "url": "None"
+      "target": "Linux Developer",
+      "url": "S3:/fmay/drops/fmay-bridgepoint/org.xtuml.bp-dev.product-linux.gtk.x86_64.zip"
+    },
+    {
+      "target": "OSX Developer",
+      "url": "S3:/fmay/drops/fmay-bridgepoint/org.xtuml.bp-dev.product-macosx.cocoa.x86_64.zip"
     }
   ],
   "demonstration": {
